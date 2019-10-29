@@ -18,7 +18,7 @@ public class ClaseExamen {
 			result = 0;
 		}
 		else {
-			//nodo 5
+			//no se puede dar
 			result = b;
 		}
 		
