@@ -6,17 +6,23 @@ public class ClaseExamen {
 		
 		float result = 0;
 		
+		//nodo 1
 		while( a > b) {
+			//nodo 2
 			a--;
 		}
 		
+		//nodo 3
 		if (a <= b) {
+			//nodo 4
 			result = 0;
 		}
 		else {
+			//nodo 5
 			result = b;
 		}
 		
+		//nodo 6
 		return result;
 	}
 
